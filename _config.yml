@@ -4,7 +4,7 @@ email: rsdevonport1993@gmail.com
 description: >
   A personal portfolio
 baseurl: "/home"
-url: "http://dastardly.github.io"
+url: "http://dastardly.github.io/"
 github_username:  dastardlymut
 # Build Settings
 sass:
