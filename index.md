@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mission through binary space
 
 You can use the [editor on GitHub](https://github.com/DastardlyMut/dastardlymut.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
