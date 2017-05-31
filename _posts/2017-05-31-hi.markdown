@@ -4,11 +4,7 @@ title:  "hi!"
 date:   2017-05-31 
 categories: welcome
 ---
-Hello!
-
 This will be my first post ever as an online blogger. I'm looking forward to uploading my work on here, and and hopefully I'll get to know all you a bit.
-
-Moving forward with wisdom.
 
 If you'd like to drop an email, please do so [rsdevonport1993@gmail.com](mailto:rsdevonport1993@gmail.com).
 
