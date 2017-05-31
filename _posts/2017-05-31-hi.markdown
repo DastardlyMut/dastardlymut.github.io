@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "hi!"
+date:   2017-05-31 
+categories: welcome
+---
+Hello!
+
+This will be my first post ever as an online blogger. I'm looking forward to uploading my work on here, and and hopefully I'll get to know all you a bit.
+
+Moving forward with wisdom.
+
+If you'd like to drop an email, please do so [rsdevonport1993@gmail.com](mailto:rsdevonport1993@gmail.com).
+
+Here's a fractal for you! 
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xUA7aQJOgAdl3dtbTW" width="100%" height="100%"  style="position:absolute;border-radius:50%" margin="auto"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fractals-xUA7aQJOgAdl3dtbTW"></a></p>
+
+[dastardlymut]:      https://dastardlymut.github.io/home/
