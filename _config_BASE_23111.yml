@@ -3,8 +3,8 @@ title: traversing time and space
 email: rsdevonport1993@gmail.com
 description: >
   A personal portfolio
-baseurl: ""
-url: "https://dastardlymut.github.io/"
+baseurl: "/home/"
+url: "http://dastardlymut.github.io/"
 github_username:  dastardlymut
 # Build Settings
 sass:

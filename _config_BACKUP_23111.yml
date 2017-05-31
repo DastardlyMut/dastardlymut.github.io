@@ -4,7 +4,11 @@ email: rsdevonport1993@gmail.com
 description: >
   A personal portfolio
 baseurl: ""
+<<<<<<< HEAD
 url: "https://dastardlymut.github.io/"
+=======
+url: "https://dastardlymut.github.io"
+>>>>>>> 9ead51f0dca3639a063c50c0e45cdb25be5f16e2
 github_username:  dastardlymut
 # Build Settings
 sass:
