@@ -11,4 +11,4 @@ permalink: /projects/
 
 ### 2016
 
-* 07/2016 - [Fabric of the Universe](http://cuemedia.co.za/2016/06/30/fest-360-let-go-with-fabric-of-the-universe/) (with Lexi Meier Productions @ Standard Bank National Arts Festival 2016)
+* 07/2016 - [Fabric of the Universe](http://cuemedia.co.za/2016/06/30/fest-360-let-go-with-fabric-of-the-universe/) (with Lexi Meier Productions @ Standard Bank National Arts Festival 2016)	
