@@ -4,8 +4,8 @@ email: elastic.tonetastic@gmail.com
 description: >
   A personal portfolio
 baseurl: ""
-url: "https://dastardlymut.github.io/"
-github_username:  dastardlymut
+url: "https://tonetechnician.github.io/"
+github_username:  tonetechnician
 # Build Settings
 sass:
   sass_dir: _sass
