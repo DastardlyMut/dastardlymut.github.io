@@ -1,1 +1,1 @@
-This is a website containing all my project wanderings and ramblings - a baron oasis within cyberspace.
+This is a website containing all my project wanderings and ramblings - an oasis within cyberspace.
