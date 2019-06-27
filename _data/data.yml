@@ -1,0 +1,203 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    interests: True 
+    # Profile information
+    name: Sean Devonport
+    tagline: Audio | Programming | Skateboarding
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # Sidebar links
+    email: tonetechnician@gmail.com
+    # phone: +2783 675 3997
+    # website: blog.webjeda.com #do not add http://
+    linkedin: sean-devonport-316b7a121
+    linkedin-name: sean-devonport
+    github: tonetechnician
+    gitlab:
+    bitbucket:
+    twitter: 
+
+    stack-overflow: 6166262/iapetus # Number/Username, e.g. 123456/alandoe
+    stack-overflow-name: iapetus # Number/Username, e.g. 123456/alandoe
+
+    soundcloud: tone_tastic
+    soundcloud-name: tone.tastic
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Learning
+
+    interests:
+      - item: Skateboarding
+        link:
+
+      - item: Drone Flying
+        link:
+
+      - item: Sound Design
+        link: 
+
+career-profile:
+    title: Profile
+    summary: |
+      I am a dedicated developer and always eager to learn. I love meeting and working with new people as well as engaging with new and interesting technologies. 
+      My expertise are in audio development, sound engineering as well as sound design for a variety of platforms. If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. 
+
+education:
+    - degree: MSc in Computer Science with Distinction
+      university: Rhodes University, South Africa
+      time: 2017 - 2018
+      details: |
+        thesis-title: An Investigation into the Application of Distributed Endpoint Processing to 3D Immersive Audio Rendering
+
+    - degree: BSc with Honours in Computer Science and Pure Mathematics
+      university: Rhodes University, South Africa
+      time: 2012 - 2016
+      details: |
+        Minor subjects in
+          - Sound Technology
+          - Musicology
+          - Electronics
+
+    - degree: Matric
+      university: St Johns College
+      time: 2011
+      details: |
+        Distinctions in 
+          - Mathematics
+          - Geography
+
+experiences:
+    - role: Software and Embedded Systems Engineer
+      time: 2017 - present
+      company: immersiveDSP startup (under parent company miniDSP)
+      details: |
+        This role has me involved with
+          - Frontend development for mobile device and browsers
+          - NodeJS development with NWJS
+          - Immersive audio rendering algorithms
+          - Hybridization of immersive audio rendering algorithms
+          - Ethernet AVB audio networks
+          - Product promotion
+          - Product workshops
+          - Spatial Audio Content creation
+          - Research in cutting edge audio technology
+
+    - role: Audio/Visual Technician and Sound Engineer
+      time: 2014 - present
+      company: Freelance
+      details: |
+        I have been lead audio technician working on a variety of mixed media, immersive audio installation projects. Particular projects are listed in the section below.
+
+    - role: Cofounder and chairperson
+      time: 2017 - present
+      company: Skate Ubuntu
+      details: |
+        I am a founding member of the non-profit organization Skate Ubuntu that is actively working with the local under-privileged Grahamstown community.
+        This has had me involved with 
+          - fundraising
+          - crowdfunding 
+          - event management 
+          - hands-on skateboard tutoring
+          - organizational responsibilities that involve leadership, public promotions and social upliftment
+
+projects:
+    title: Projects
+    intro: >
+      This is a list of my most recent endeavours in mixed-media engineering. 
+    productions:
+      - title: Tectonik Tombwa (2019)
+        link: https://prohelvetia.org.za/en/2019/04/23/vela-6911-tectoniktombwa-by-victor-gama-and-stacy-hardy/
+        tagline: Live instrumental with video projection Victor Gama
+        info: Sound engineer 
+
+      - title: Exploitation! (2018)
+        link: http://africanah.org/heidi-sincuba-2/ 
+        tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
+        info: Managed the production of both audio and visual content for fine artist Heidi Sincuba’s art installation, entitled ‘Exploitation’. This took place at the 2018 National Arts Festival. My involvement included work for the pre- to post-production of the digital media, as well as installing the exhibition’s 18 channel sound system and visual projection. This work made use of the ImmerGO sound system which I have been involved in developing with MiniDSP.
+
+      - title: Input Lag (2018)
+        link: https://www.facebook.com/pages/category/Visual-Arts/Input-Lag-2193186604330071/
+        tagline: Audio engineering for Justin Shaw's art graduate final piece
+        info: Built the automated control system that was fed input data from facebook graph api. This data was then used to control Resolume, Ableton and a printer. The concept had users interacting with a facebook live stream of the exhibition space. These would then trigger various controls that would affect the live stream video and a Louville laser within the space.
+      
+      - title: Down to a Sunless Sea (2017)
+        link: https://leximeierchoreography.wordpress.com/2017/07/27/down-to-a-sunless-sea/
+        tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
+        info: Co-created the sound score, setup the 24 speaker system and performed the live mix for ‘Down to a Sunless Sea’ . This work made use of the ImmerGO sound system which I have been involved in developing with MiniDSP.
+
+      - title: Fabric of the Universe (2016)
+        link: https://leximeierchoreography.wordpress.com/2017/07/27/fabric-of-the-universe-2016/
+        tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
+        info: Co-created the sound score, setup the piece and performed a live mix of the score for ‘Fabric of the Universe’. This work made use of the ImmerGO sound system which I have been involved in developing with MiniDSP.
+
+    assignments:
+      - title: facebook-music-maker
+        link: "https://github.com/tonetechnician/facebook-music-maker"
+        tagline: A nodeJS  server that interacts with the facebook graph api to create MIDI sequences and print to a printer
+        info: This was used in a mixed media final art graduate exhibition. The server was hooked up to control both resolume
+        
+      - title: teleMax
+        link: "https://github.com/tonetechnician/teleMax"
+        tagline: MaxMSP project for the sonification of network telescope data
+        info: This is the MaxMSP patch that sonified network telescope data and was the project presented at BSides Cape Town, 2018.
+
+publications:
+    title: Publications
+    intro: |
+      The below publications include my masters thesis and various peer-reviewed papers that have been published on my research
+
+    thesis:
+      - title: "An Investigation into the Application of Distributed Endpoint Processing to 3D Immersive Audio Rendering"
+      - abstract: 3D immersive audio rendering systems use algorithms that accurately render the perceived location of an audio source within a space using multiple sets of loudspeakers. The algorithms used by these renderers can become very processor intensive as the number of tracks and loudspeakers being used increases. The ImmerGo spatial audio system provides a solution to this by using distributed endpoint processing. Immergo uses a client-server architecture that control multiple smaller endpoints distributed on an Ethernet Audio Video Bridging (AVB) network. Each endpoint contains an audio mixer which is dedicated to mixing audio to a smaller subset of speakers according to commands from ImmerGo.
+                  The ImmerGo system performs its rendering calculations within the host computer and then mixes the audio at each endpoint. The work in this thesis identified that the processing load put on the host computer due to these calculations may be mitigated by offloading the rendering algorithm calculations to the endpoints as well. In order to prove this for a number of different algorithms, the ImmerGo system was modified to include three new algorithms as well as the one it currently uses. Each algorithm then had its processing offloaded to the endpoints at three successive steps of distribution. Tests were performed to determine the limitations of each step, and how the host processor and endpoint processors were affected by distributing the calculations. Listening tests were also performed to ensure that each newly introduced algorithm was implemented correctly.  
+
+    papers:
+      - title: "An Investigation into the Distribution of 3D Immersive Audio Renderer Processing to Speaker Endpoint Processors"
+        authors: Sean Devonport & Richard Foss
+        conference: 30th Tonmeistertagung VDT, Cologne, Germany, 2018
+
+      - title: "An Immersive Audio Control System Using Mobile Devices and Ethernet AVB-Capable Speakers"
+        authors: Sean Devonport & Richard Foss
+        conference: "Journal Audio Engineering Society (JAES) Vol. 66 no. 9 pp724-733, 2018"
+
+      - title: "An Investigation into the Application of Distributed Endpoint Processing to 3D Immersive Audio Reproduction"
+        authors: Sean Devonport & Richard Foss
+        conference: "Southern Africa Telecommunication Networks and Applications Conference (SATNAC), Hermanus, 2018"
+
+      - title: "Hearing Internet Background"
+        authors: Sean Devonport & Brent Shaw
+        conference: "Bsides, Cape Town, 2018"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: MaxMSP
+      - name: C/C++
+      - name: JUCE framework
+      - name: XMOS and xC embedded software development
+      - name: Ethernet AVB and Audio Networking
+      - name: Matlab/Octave
+      - name: Python
+      - name: Acoustics and psychoacoustics in context of loudspeakers and spatial audio
+      - name: Audio DSP concepts – filtering, delay buffers, smoothing, convolutional filtering
+      - name: Javascript (ECMAScript 6)
+      - name: NodeJS and node-gyp bindings
+      - name: Ionic
+      - name: AngularJS
+      - name: HTML5 & CSS
+      - name: git + gitHub
+      - name: Remote project management with tools like Trello
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
