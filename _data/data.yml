@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: tonetechnician@gmail.com
-    # phone: +2783 675 3997
+    phone: +2783 675 3997
     # website: blog.webjeda.com #do not add http://
     linkedin: sean-devonport-316b7a121
     linkedin-name: sean-devonport
@@ -33,9 +33,6 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Spanish
-        level: Learning
-
     interests:
       - item: Skateboarding
         link:
@@ -50,7 +47,7 @@ career-profile:
     title: Profile
     summary: |
       I am a dedicated developer and always eager to learn. I love meeting and working with new people as well as engaging with new and interesting technologies. 
-      My expertise are in audio development, sound engineering as well as sound design for a variety of platforms. If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. 
+      My expertise is in audio development, sound engineering as well as sound design for a variety of platforms. If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. I love being in the outdoors recording ambience or flying my drone around.
 
 education:
     - degree: MSc in Computer Science with Distinction
@@ -68,7 +65,7 @@ education:
           - Musicology
           - Electronics
 
-    - degree: Matric
+    - degree: South African National Senior Certificate with Independent Examination Boards (IEB)
       university: St Johns College
       time: 2011
       details: |
@@ -113,7 +110,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      This is a list of my most recent endeavours in mixed-media engineering. 
+      This is a list of my most recent endeavours in mixed-media programming and engineering. 
     productions:
       - title: Tectonik Tombwa (2019)
         link: https://prohelvetia.org.za/en/2019/04/23/vela-6911-tectoniktombwa-by-victor-gama-and-stacy-hardy/
@@ -123,7 +120,7 @@ projects:
       - title: Exploitation! (2018)
         link: http://africanah.org/heidi-sincuba-2/ 
         tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
-        info: Managed the production of both audio and visual content for fine artist Heidi Sincuba’s art installation, entitled ‘Exploitation’. This took place at the 2018 National Arts Festival. My involvement included work for the pre- to post-production of the digital media, as well as installing the exhibition’s 18 channel sound system and visual projection. This work made use of the ImmerGO sound system which I have been involved in developing with MiniDSP.
+        info: Managed the production of both audio and visual content for fine artist Heidi Sincuba’s art installation, entitled ‘Exploitation’. This took place at the 2018 National Arts Festival. My involvement included work for the pre- to post-production of the digital media, as well as installing the exhibition’s 18 channel sound system and visual projection. This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
       - title: Input Lag (2018)
         link: https://www.facebook.com/pages/category/Visual-Arts/Input-Lag-2193186604330071/
@@ -133,12 +130,12 @@ projects:
       - title: Down to a Sunless Sea (2017)
         link: https://leximeierchoreography.wordpress.com/2017/07/27/down-to-a-sunless-sea/
         tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
-        info: Co-created the sound score, setup the 24 speaker system and performed the live mix for ‘Down to a Sunless Sea’ . This work made use of the ImmerGO sound system which I have been involved in developing with MiniDSP.
+        info: Co-created the sound score, setup the 24 speaker system and performed the live mix for ‘Down to a Sunless Sea’ . This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
       - title: Fabric of the Universe (2016)
         link: https://leximeierchoreography.wordpress.com/2017/07/27/fabric-of-the-universe-2016/
         tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
-        info: Co-created the sound score, setup the piece and performed a live mix of the score for ‘Fabric of the Universe’. This work made use of the ImmerGO sound system which I have been involved in developing with MiniDSP.
+        info: Co-created the sound score, setup the 24 speaker system and performed a live mix of the score for ‘Fabric of the Universe’. This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
     assignments:
       - title: facebook-music-maker
@@ -149,12 +146,12 @@ projects:
       - title: teleMax
         link: "https://github.com/tonetechnician/teleMax"
         tagline: MaxMSP project for the sonification of network telescope data
-        info: This is the MaxMSP patch that sonified network telescope data and was the project presented at BSides Cape Town, 2018.
+        info: This is the MaxMSP patch that sonified network telescope data according to output from a python script. It was the project presented at BSides Cape Town, 2018.
 
 publications:
     title: Publications
     intro: |
-      The below publications include my masters thesis and various peer-reviewed papers that have been published on my research
+      The publications below include my masters thesis and peer-reviewed papers that I have contributed
 
     thesis:
       - title: "An Investigation into the Application of Distributed Endpoint Processing to 3D Immersive Audio Rendering"
@@ -174,7 +171,7 @@ publications:
         authors: Sean Devonport & Richard Foss
         conference: "Southern Africa Telecommunication Networks and Applications Conference (SATNAC), Hermanus, 2018"
 
-      - title: "Hearing Internet Background"
+      - title: "Hearing the Internet Background Radiaion"
         authors: Sean Devonport & Brent Shaw
         conference: "Bsides, Cape Town, 2018"
 
