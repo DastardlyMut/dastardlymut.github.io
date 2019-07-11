@@ -119,12 +119,12 @@ projects:
 
       - title: Exploitation! (2018)
         link: http://africanah.org/heidi-sincuba-2/ 
-        tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
+        tagline: Standard Bank Art Exhibition
         info: Managed the production of both audio and visual content for fine artist Heidi Sincuba’s art installation, entitled ‘Exploitation’. This took place at the 2018 National Arts Festival. My involvement included work for the pre- to post-production of the digital media, as well as installing the exhibition’s 18 channel sound system and visual projection. This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
       - title: Input Lag (2018)
         link: https://www.facebook.com/pages/category/Visual-Arts/Input-Lag-2193186604330071/
-        tagline: Audio engineering for Justin Shaw's art graduate final piece
+        tagline: Audio engineering for artist Justin Share's art graduate final piece
         info: Built the automated control system that was fed input data from facebook graph api. This data was then used to control Resolume, Ableton and a printer. The concept had users interacting with a facebook live stream of the exhibition space. These would then trigger various controls that would affect the live stream video and a Louville laser within the space.
       
       - title: Down to a Sunless Sea (2017)
