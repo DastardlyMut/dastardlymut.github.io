@@ -159,6 +159,10 @@ publications:
                   The ImmerGo system performs its rendering calculations within the host computer and then mixes the audio at each endpoint. The work in this thesis identified that the processing load put on the host computer due to these calculations may be mitigated by offloading the rendering algorithm calculations to the endpoints as well. In order to prove this for a number of different algorithms, the ImmerGo system was modified to include three new algorithms as well as the one it currently uses. Each algorithm then had its processing offloaded to the endpoints at three successive steps of distribution. Tests were performed to determine the limitations of each step, and how the host processor and endpoint processors were affected by distributing the calculations. Listening tests were also performed to ensure that each newly introduced algorithm was implemented correctly.  
 
     papers:
+      - title: "The Distribution of Ambisonic and Point Source Rendering to Ethernet AVB Speakers"
+        authors: Sean Devonport & Richard Foss
+        conference: International Conference on Spatial Audio, Ilmenau, Germany, 2019
+        
       - title: "An Investigation into the Distribution of 3D Immersive Audio Renderer Processing to Speaker Endpoint Processors"
         authors: Sean Devonport & Richard Foss
         conference: 30th Tonmeistertagung VDT, Cologne, Germany, 2018
