@@ -47,7 +47,7 @@ career-profile:
     title: Profile
     summary: |
       I am a dedicated developer and always eager to learn. I love meeting and working with new people as well as engaging with new and interesting technologies. 
-      My expertise is in audio development, sound engineering as well as sound design for a variety of platforms. If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. I love being in the outdoors recording ambience or flying my drone around.
+      My expertise is in audio development, sound engineering as well as sound design for a variety of platforms. If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. I love being in the outdoors recording ambience or flying my drone around. I've also recently taken up rock climbing.
 
 education:
     - degree: MSc in Computer Science with Distinction
@@ -141,7 +141,7 @@ projects:
       - title: facebook-music-maker
         link: "https://github.com/tonetechnician/facebook-music-maker"
         tagline: A nodeJS  server that interacts with the facebook graph api to create MIDI sequences and print to a printer
-        info: This was used in a mixed media final art graduate exhibition. The server was hooked up to control both resolume
+        info: This was used in a mixed media final art graduate exhibition. The server was hooked up to control both resolume and Ableton Live.
         
       - title: teleMax
         link: "https://github.com/tonetechnician/teleMax"
@@ -162,7 +162,7 @@ publications:
       - title: "The Distribution of Ambisonic and Point Source Rendering to Ethernet AVB Speakers"
         authors: Sean Devonport & Richard Foss
         conference: International Conference on Spatial Audio, Ilmenau, Germany, 2019
-        
+
       - title: "An Investigation into the Distribution of 3D Immersive Audio Renderer Processing to Speaker Endpoint Processors"
         authors: Sean Devonport & Richard Foss
         conference: 30th Tonmeistertagung VDT, Cologne, Germany, 2018
@@ -183,22 +183,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Javascript (ECMAScript 6)
+      - name: NodeJS including node-gyp and cmake bindings
+      - name: HTML5 & CSS 
+      - name: XMOS and xC embedded software development
+      - name: Audio DSP concepts – filtering, delay buffers, smoothing, convolutional filtering
+      - name: Ethernet AVB and Audio Networking
+      - name: git + gitHub
+      - name: Remote project management with tools like Trello
+      - name: Acoustics and psychoacoustics in context with loudspeakers and spatial audio
       - name: MaxMSP
       - name: C/C++
       - name: JUCE framework
-      - name: XMOS and xC embedded software development
-      - name: Ethernet AVB and Audio Networking
       - name: Matlab/Octave
       - name: Python
-      - name: Acoustics and psychoacoustics in context of loudspeakers and spatial audio
-      - name: Audio DSP concepts – filtering, delay buffers, smoothing, convolutional filtering
-      - name: Javascript (ECMAScript 6)
-      - name: NodeJS and node-gyp bindings
       - name: Ionic
       - name: AngularJS
-      - name: HTML5 & CSS
-      - name: git + gitHub
-      - name: Remote project management with tools like Trello
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

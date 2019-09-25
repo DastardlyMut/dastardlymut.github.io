@@ -14,7 +14,7 @@
    .main-wrapper .time {
       float: right;
       color: black !important;
-      -webkit-print-color-adjust: exact; 
+      // -webkit-print-color-adjust: exact; 
    }
     .sidebar-wrapper {
       background: $theme-color !important;
@@ -22,7 +22,7 @@
       float: right;
       width: 40%;
       height: 100%;
-      -webkit-print-color-adjust: exact; 
+      // -webkit-print-color-adjust: exact; 
     }
 
     .remove-container.container-block {
