@@ -48,8 +48,8 @@ career-profile:
     summary: |
       I am a dedicated software developer and always eager to learn. I love meeting and working with new people as well as engaging with new and interesting technologies. 
       My expertise is in audio software development, XMOS firmware programming, control systems development, sound engineering and sound design. I've also been lead tech and rigger for multiple immersive media and multi-speaker environments.
-      If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. More recently I've become very interested in immersive support therapy, immersive media for conservation and immersive media for space exploration. There is a wealth of knowledge to be uncovered.
-      If I'm not thinking about this, I'm most likely in the outdoors recording 360 audio ambience or flying my drone around. 
+      More recently I've become very interested in immersive support therapy, immersive media for conservation and immersive media for space exploration. There is a wealth of knowledge to be uncovered.
+      If I'm not thinking about this, I'm most likely in the outdoors recording 360 audio ambience, skateboarding or flying my drone around. 
 
 education:
     - degree: MSc in Computer Science with Distinction
@@ -127,7 +127,7 @@ projects:
 
       - title: The Earth Space Program (2019)
         link: https://www.playtopia.co.za/
-        tagline: Interactive lighting and audio/visual immersive installation using analog equipment (a turntable) and realtime digital audio over Ethernet AVB. This work included a 12.1 channel soundsystem housed in a gazebo. A turntable was at the centre of the gazebo which was used to control the triggering of various ambisonic recordings and spatial audio FX according to various states that the system could be put in. A Microsoft Kinect was included to control reactive LED lighting, and trigger particular recordings according to the positions of users in the space. Two LED strips were connected to two different Arduinos that were connected to the host computer over USB serial which provided an interface for the Kinect to control the lighting. 
+        tagline: Interactive lighting and audio/visual immersive installation using analog equipment (a turntable) and realtime digital audio over Ethernet AVB. This work included a 12.1 channel soundsystem housed in a gazebo. A turntable was at the centre of the gazebo which was used to control the triggering of various ambisonic recordings and spatial audio FX according to various states that the system could be put in. A Microsoft Kinect was included to control reactive LED lighting, and trigger particular recordings according to the positions of users in the space. Three LED strips were connected to two different Arduinos that were connected to the host computer over USB serial which provided an interface for the Kinect to control the lighting. 
         info: Control systems and sound engineer
 
       - title: Tectonik Tombwa (2019)
