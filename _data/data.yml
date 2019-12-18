@@ -17,7 +17,7 @@ sidebar:
     linkedin: sean-devonport-316b7a121
     linkedin-name: sean-devonport
     github: tonetechnician
-    gitlab:
+    gitlab: tonetechnician
     bitbucket:
     twitter: 
 
@@ -46,8 +46,10 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am a dedicated developer and always eager to learn. I love meeting and working with new people as well as engaging with new and interesting technologies. 
-      My expertise is in audio development, sound engineering as well as sound design for a variety of platforms. If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. I love being in the outdoors recording ambience or flying my drone around. I've also recently taken up rock climbing.
+      I am a dedicated software developer and always eager to learn. I love meeting and working with new people as well as engaging with new and interesting technologies. 
+      My expertise is in audio software development, XMOS firmware programming, control systems development, sound engineering and sound design. I've also been lead tech and rigger for multiple immersive media and multi-speaker environments.
+      If I'm not skateboarding or making noise with synths, you'll find me creating little program doodles in MaxMSP or Reaper's JSFx. More recently I've become very interested in immersive support therapy, immersive media for conservation and immersive media for space exploration. There is a wealth of knowledge to be uncovered.
+      If I'm not thinking about this, I'm most likely in the outdoors recording 360 audio ambience or flying my drone around. 
 
 education:
     - degree: MSc in Computer Science with Distinction
@@ -78,16 +80,22 @@ experiences:
       time: 2017 - present
       company: immersiveDSP startup (under parent company miniDSP)
       details: |
-        This role has me involved with
-          - Frontend development for mobile device and browsers
-          - NodeJS development with NWJS
-          - Immersive audio rendering algorithms
-          - Hybridization of immersive audio rendering algorithms
-          - Ethernet AVB audio networks
+        This role has me involved with development of the core immerGo system. Specifically,
+          - Frontend development for mobile device interface and browsers using ES6, HTML5, CSS and Cordova
+          - NodeJS server development with NWJS
+          - Immersive audio speaker rendering algorithms (DBAP, VBAP, Ambisonics, Wave Field Synthesis)
+          - Hybridization of immersive audio rendering algorithms 
+          - Software license manager for immersiveDSP products.
+          - XMOS xC firmware development on top of the AVB stack
+          - C++ application development using the JUCE framework
+          - Unity + Wwise integrations for immerGo-VR software
+          - MaxMSP development rolled out to standalone software
+          - Ethernet AVB audio networks automated network configuration and management
+          - DevOps pipelines to automate build and delivery of software products and hardware firmware
           - Product promotion
-          - Product workshops
+          - Product educational workshops
           - Spatial Audio Content creation
-          - Research in cutting edge audio technology
+          - Research in as much cutting edge audio and speaker technology as possible
 
     - role: Audio/Visual Technician and Sound Engineer
       time: 2014 - present
@@ -110,11 +118,21 @@ experiences:
 projects:
     title: Projects
     intro: >
-      This is a list of my most recent endeavours in mixed-media programming and engineering. 
+      This is a list of my most recent endeavours in mixed-media programming, control system engineering and sound engineering. 
     productions:
+      - title: OhGod in Immersive Sound (2019)
+        link: https://www.quicket.co.za/events/93138-immersivedsp-presents-ohgod-live-in-immersive-surround-sound/
+        tagline: This was immersiveDSP's first step into immersive sound for live performance. It had an attendance of 106 people. The event originally intended to have 20 loudspeakers but due to difficulties with available loudspeakers not outputting enough volume, it was downsized to 6 speakers. The system I built for this event allowed for the playback ambisonic recordings, triggered surround sound and non-surround audio stems, object based control over these triggered samples and live instrument signals and my own custom designed spatial audio fx created using object based audio techniques. The system was used in parallel with a Midas m32 desk which essentially provided typical mixing control for the FOH speakers, whilst giving individual audio stems into my system which then performed rendering to loudspeakers using DBAP. The beauty of this system is that in realtime, it also records the audio object positions and signals into an Ambisonic 2nd order format on a seperate computer. This allows for clean audio signal and spatializated audio to be recorded and then spliced with the 360 footage that was captured at the event. The hopes that this sort of system can be incorporated easily into live sound, and also provide the option to record the entire performance with spatial fidelity for further distribution and publicity of the event.
+        info: Lead audio tech engineer
+
+      - title: The Earth Space Program (2019)
+        link: https://www.playtopia.co.za/
+        tagline: Interactive lighting and audio/visual immersive installation using analog equipment (a turntable) and realtime digital audio over Ethernet AVB. This work included a 12.1 channel soundsystem housed in a gazebo. A turntable was at the centre of the gazebo which was used to control the triggering of various ambisonic recordings and spatial audio FX according to various states that the system could be put in. A Microsoft Kinect was included to control reactive LED lighting, and trigger particular recordings according to the positions of users in the space. Two LED strips were connected to two different Arduinos that were connected to the host computer over USB serial which provided an interface for the Kinect to control the lighting. 
+        info: Control systems and sound engineer
+
       - title: Tectonik Tombwa (2019)
         link: https://prohelvetia.org.za/en/2019/04/23/vela-6911-tectoniktombwa-by-victor-gama-and-stacy-hardy/
-        tagline: Live instrumental with video projection Victor Gama
+        tagline: Live instrumental mixing with video projection Victor Gama
         info: Sound engineer 
 
       - title: Exploitation! (2018)
@@ -189,7 +207,7 @@ skills:
       - name: XMOS and xC embedded software development
       - name: Audio DSP concepts – filtering, delay buffers, smoothing, convolutional filtering
       - name: Ethernet AVB and Audio Networking
-      - name: git + gitHub
+      - name: git + gitHub + gitLab
       - name: Remote project management with tools like Trello
       - name: Acoustics and psychoacoustics in context with loudspeakers and spatial audio
       - name: MaxMSP
@@ -197,8 +215,9 @@ skills:
       - name: JUCE framework
       - name: Matlab/Octave
       - name: Python
-      - name: Ionic
-      - name: AngularJS
+      - name: Basic experience with Ionic (no product pushed to production)
+      - name: Basic experience with AngularJS (no product pushed to production)
+      - name: Basic experience with React (no product pushed to production)
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
