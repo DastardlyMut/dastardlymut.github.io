@@ -3,8 +3,34 @@
     @page {
         size: A4;
     }
+
     body {
-       font-size: 12pt;
+      font-size: 9pt;
+    }
+
+    a[href]:after {
+      content: none !important;
+    }
+
+    .fa-stack.fa-xs {
+       display: none;
+    }
+
+    .job-title {
+       font-weight: bold !important;
+    }
+
+    .time {
+       font-size: small !important;
+    }
+
+    .section {
+       margin: 30px !important;
+    }
+
+    .company { 
+      font-size: small !important;
+      font-style: italic !important;
     }
 
     img.avatar {

@@ -8,7 +8,7 @@ sidebar:
     interests: True 
     # Profile information
     name: Sean Devonport
-    tagline: Audio | Programming | Skateboarding
+    tagline: Audio Engineering | Programming | Sound Design
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: tonetechnician@gmail.com
@@ -20,9 +20,6 @@ sidebar:
     gitlab: tonetechnician
     bitbucket:
     twitter: 
-
-    stack-overflow: 6166262/iapetus # Number/Username, e.g. 123456/alandoe
-    stack-overflow-name: iapetus # Number/Username, e.g. 123456/alandoe
 
     soundcloud: tone_tastic
     soundcloud-name: tone.tastic
@@ -37,11 +34,8 @@ sidebar:
       - item: Skateboarding
         link:
 
-      - item: Drone Flying
+      - item: Immersive Arts
         link:
-
-      - item: Sound Design
-        link: 
 
 career-profile:
     title: Profile
@@ -77,11 +71,11 @@ education:
 
 experiences:
     - role: Software and Embedded Systems Engineer
-      time: 2017 - present
-      company: immersiveDSP startup (under parent company miniDSP)
+      time: 2016 - present
+      company: ImmersiveDSP startup in collaboration with MiniDSP
       details: |
         This role has me involved with development of the core immerGo system. Specifically,
-          - Frontend development for mobile device interface and browsers using ES6, HTML5, CSS and Cordova
+          - Frontend development for mobile device interface and browsers using ECMAScript, HTML5, CSS and Cordova
           - NodeJS server development with NWJS
           - Immersive audio speaker rendering algorithms (DBAP, VBAP, Ambisonics, Wave Field Synthesis)
           - Hybridization of immersive audio rendering algorithms 
@@ -103,7 +97,7 @@ experiences:
       details: |
         I have been lead audio technician working on a variety of mixed media, immersive audio installation projects. Particular projects are listed in the section below.
 
-    - role: Cofounder and chairperson
+    - role: Co-founder
       time: 2017 - present
       company: Skate Ubuntu
       details: |
@@ -122,22 +116,22 @@ projects:
     productions:
       - title: OhGod in Immersive Sound (2019)
         link: https://www.quicket.co.za/events/93138-immersivedsp-presents-ohgod-live-in-immersive-surround-sound/
-        tagline: This was immersiveDSP's first step into immersive sound for live performance. It had an attendance of 106 people. The event originally intended to have 20 loudspeakers but due to difficulties with available loudspeakers not outputting enough volume, it was downsized to 6 speakers. The system I built for this event allowed for the playback ambisonic recordings, triggered surround sound and non-surround audio stems, object based control over these triggered samples and live instrument signals and my own custom designed spatial audio fx created using object based audio techniques. The system was used in parallel with a Midas m32 desk which essentially provided typical mixing control for the FOH speakers, whilst giving individual audio stems into my system which then performed rendering to loudspeakers using DBAP. The beauty of this system is that in realtime, it also records the audio object positions and signals into an Ambisonic 2nd order format on a seperate computer. This allows for clean audio signal and spatializated audio to be recorded and then spliced with the 360 footage that was captured at the event. The hopes that this sort of system can be incorporated easily into live sound, and also provide the option to record the entire performance with spatial fidelity for further distribution and publicity of the event.
-        info: Lead audio tech engineer
+        tagline: Lead audio tech engineer 
+        info: This was ImmersiveDSP's first step into immersive sound for live performance. The system I built for this event allowed for the playback ambisonic recordings, triggered surround sound and non-surround audio stems, object based control over these triggered samples and live instrument signals and my own custom designed spatial audio fx created using object based audio techniques. The beauty of this system is that in realtime, it also records the audio object positions and signals into an Ambisonic 2nd order format on a seperate computer. This allows for clean audio signal and spatializated audio to be recorded and then spliced with the 360 footage that was captured at the event. The hopes that this sort of system can be incorporated easily into live sound, and also provide the option to record the entire performance with spatial fidelity for further distribution and publicity of the event.
 
       - title: The Earth Space Program (2019)
         link: https://www.playtopia.co.za/
-        tagline: Interactive lighting and audio/visual immersive installation using analog equipment (a turntable) and realtime digital audio over Ethernet AVB. This work included a 12.1 channel soundsystem housed in a gazebo. A turntable was at the centre of the gazebo which was used to control the triggering of various ambisonic recordings and spatial audio FX according to various states that the system could be put in. A Microsoft Kinect was included to control reactive LED lighting, and trigger particular recordings according to the positions of users in the space. Three LED strips were connected to two different Arduinos that were connected to the host computer over USB serial which provided an interface for the Kinect to control the lighting. 
-        info: Control systems and sound engineer
+        tagline: Control systems and sound engineer 
+        info: Interactive lighting and audio/visual immersive installation using analog equipment (a turntable) and realtime digital audio over Ethernet AVB. This work included a 12.1 channel soundsystem housed in a gazebo. A turntable was at the centre of the gazebo which was used to control the triggering of various ambisonic recordings and spatial audio FX according to various states that the system could be put in. A Microsoft Kinect was included to control reactive LED lighting, and trigger particular recordings according to the positions of users in the space. Three LED strips were connected to two different Arduinos that were connected to the host computer over USB serial which provided an interface for the Kinect to control the lighting. 
 
       - title: Tectonik Tombwa (2019)
         link: https://prohelvetia.org.za/en/2019/04/23/vela-6911-tectoniktombwa-by-victor-gama-and-stacy-hardy/
-        tagline: Live instrumental mixing with video projection Victor Gama
-        info: Sound engineer 
+        tagline: Sound and recording engineer 
+        info: Live instrumental mixing with video projection Victor Gama
 
       - title: Exploitation! (2018)
         link: http://africanah.org/heidi-sincuba-2/ 
-        tagline: Standard Bank Art Exhibition
+        tagline: Lead audio/visual tech
         info: Managed the production of both audio and visual content for fine artist Heidi Sincuba’s art installation, entitled ‘Exploitation’. This took place at the 2018 National Arts Festival. My involvement included work for the pre- to post-production of the digital media, as well as installing the exhibition’s 18 channel sound system and visual projection. This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
       - title: Input Lag (2018)
@@ -145,14 +139,14 @@ projects:
         tagline: Audio engineering for artist Justin Share's art graduate final piece
         info: Built the automated control system that was fed input data from facebook graph api. This data was then used to control Resolume, Ableton and a printer. The concept had users interacting with a facebook live stream of the exhibition space. These would then trigger various controls that would affect the live stream video and a Louville laser within the space.
       
-      - title: Down to a Sunless Sea (2017)
+      - title: Down to a Sunless Sea - Standard Bank Ovation award winning immersive installation with Lexi Meier (2017)
         link: https://leximeierchoreography.wordpress.com/2017/07/27/down-to-a-sunless-sea/
-        tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
+        tagline: Lead audio tech
         info: Co-created the sound score, setup the 24 speaker system and performed the live mix for ‘Down to a Sunless Sea’ . This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
-      - title: Fabric of the Universe (2016)
+      - title: Fabric of the Universe - Standard Bank Ovation award winning immersive installation with Lexi Meier (2016)
         link: https://leximeierchoreography.wordpress.com/2017/07/27/fabric-of-the-universe-2016/
-        tagline: Standard Bank Ovation award winning immersive installation with Lexi Meier
+        tagline: Lead audio tech
         info: Co-created the sound score, setup the 24 speaker system and performed a live mix of the score for ‘Fabric of the Universe’. This work made use of the ImmerGO sound system which I have been involved in developing with miniDSP.
 
     assignments:
@@ -169,7 +163,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      The publications below include my masters thesis and peer-reviewed papers that I have contributed
+      The publications below include my masters thesis and peer-reviewed papers that I have contributed to
 
     thesis:
       - title: "An Investigation into the Application of Distributed Endpoint Processing to 3D Immersive Audio Rendering"
@@ -201,23 +195,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript (ECMAScript 6)
-      - name: NodeJS including node-gyp and cmake bindings
+      - name: Javascript (ECMAScript)
+      - name: NodeJS including native C++ addons with node-gyp and cmake bindings
       - name: HTML5 & CSS 
       - name: XMOS and xC embedded software development
-      - name: Audio DSP concepts – filtering, delay buffers, smoothing, convolutional filtering
+      - name: Audio DSP concepts – filtering, delay buffers, smoothing, convolution etc..
       - name: Ethernet AVB and Audio Networking
       - name: git + gitHub + gitLab
       - name: Remote project management with tools like Trello
       - name: Acoustics and psychoacoustics in context with loudspeakers and spatial audio
       - name: MaxMSP
-      - name: C/C++
+      - name: C++
       - name: JUCE framework
       - name: Matlab/Octave
-      - name: Python
-      - name: Basic experience with Ionic (no product pushed to production)
-      - name: Basic experience with AngularJS (no product pushed to production)
-      - name: Basic experience with React (no product pushed to production)
+      - name: Python (research projects)
+      - name: Experience with Ionic (no product pushed to production)
+      - name: Experience with AngularJS (no product pushed to production)
+      - name: Experience with React (no product pushed to production)
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
