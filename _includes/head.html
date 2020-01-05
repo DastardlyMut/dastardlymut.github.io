@@ -1,4 +1,7 @@
 <head>
+  {% if site.analytics and jekyll.environment == 'production' %}
+  {% include.anayltics.html %}
+  {% endif %}
   <title>{{ site.title }}</title>
 
   <!-- Meta -->
