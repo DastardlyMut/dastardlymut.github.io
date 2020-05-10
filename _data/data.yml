@@ -207,6 +207,7 @@ skills:
 
     toolset:
       - name: Javascript (ECMAScript)
+      - name: Unity + Unreal audio development
       - name: NodeJS including native C++ addons with node-gyp and cmake bindings
       - name: HTML5 & CSS 
       - name: XMOS and xC embedded software development
