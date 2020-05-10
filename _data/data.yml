@@ -91,6 +91,12 @@ experiences:
           - Spatial Audio Content creation
           - Research in as much cutting edge audio and speaker technology as possible
 
+    - role: Freelance software engineer and systems integrator
+      time: 2014 - present
+      company: Freelance
+      details: |
+        I'm a freelance software engineer and systems integrator mostly focused in programming to provide tools and system architectures to achieve artist's visions. This has had me work with many different people and companies from all over the world. 
+
     - role: Audio/Visual Technician and Sound Engineer
       time: 2014 - present
       company: Freelance
@@ -112,8 +118,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      This is a list of my most recent endeavours in mixed-media programming, control system engineering and sound engineering. 
+      This is a list of my most recent endeavours in mixed-media programming, control system engineering, software development, audio for virtual reality and recording and sound engineering. 
     productions:
+      - title: UAE2020 World Expo (2020 - 2021)
+        link: https://www.expo2020dubai.com/ 
+        tagline: Software Engineer, VR spatial audio developer, systems integrator, recording engineer and specialist audio programmer.
+        info: I have been subcontracted as a specialist audio programmer working in a variety of aspects for both installed and VR sound for the UAE2020 World Expo. This project has had me build and work with a variety of different hardware and software. I've needed to hack Brightsign players, create generative style playback in the Q-Sys Qcore ecosystem with Lua scripting, build tools in Unreal to aid the mixing in realtime VR audio simulations, manage recording devices and help manage an integration team. 
+        
       - title: OhGod in Immersive Sound (2019)
         link: https://www.quicket.co.za/events/93138-immersivedsp-presents-ohgod-live-in-immersive-surround-sound/
         tagline: Lead audio tech engineer 
